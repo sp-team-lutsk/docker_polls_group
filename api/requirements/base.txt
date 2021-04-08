@@ -1,5 +1,5 @@
 gunicorn
-Django==2.2.8
+Django==2.2.20
 django-rest-auth==0.9.5
 django-allauth==0.39.1
 djangorestframework==3.9.4
